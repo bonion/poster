@@ -1,0 +1,23 @@
+{
+    "name": "poster-server",
+    "version": "0.0.1",
+    "description": "Backend for Poster app",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bonion/poster.git"
+    },
+    "author": "Emmanuel Bonin <emmanuel.blanc.bonin@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bonion/poster/issues"
+    },
+    "homepage": "https://github.com/bonion/poster#readme",
+    "dependencies": {
+        "express": "latest",
+        "sequelize": "latest"
+    }
+}
