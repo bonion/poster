@@ -15,9 +15,14 @@
     "bugs": {
         "url": "https://github.com/bonion/poster/issues"
     },
+    "scripts": {
+        "start": "node index.js"
+    },
     "homepage": "https://github.com/bonion/poster#readme",
     "dependencies": {
         "express": "latest",
-        "sequelize": "latest"
+        "sequelize": "latest",
+        "mysql2": "latest",
+        "asyncawait": "latest"
     }
 }
